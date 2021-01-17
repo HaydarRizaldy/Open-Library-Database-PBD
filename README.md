@@ -1,2 +1,2 @@
 # Open-Library-Database
-Open Library database SQL code using MySQL
+Open Library database SQL code using MySQL.
